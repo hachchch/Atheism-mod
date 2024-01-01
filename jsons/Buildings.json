@@ -1,0 +1,19 @@
+[
+        {
+                "name": "Atheism",
+                "cost": 50,
+                "uniques": ["Atheism Religion","Unbuildable","[-1 Faith, +1 Science] per every [1] [Faith]","[-500]% Natural religion spread [in all cities]","[-500]% Spread Religion Strength <for [All] units>","Cannot be purchased <after founding a Pantheon>","Can only be built [in capital] <hidden from users>"]
+        },
+        {
+                "name": "Nihilism",
+                "cost": 50,
+                "requiredBuilding": "Atheism",
+                "uniques": ["Atheism Belief","Unbuildable","[-25]% Unhappiness from [Population] [in all cities]","Nullifies [Faith] [in all cities]","Cannot be purchased <if [Materialism] is constructed>","Can only be built [in capital] <hidden from users>"]
+        },
+        {
+                "name": "Materialism",
+                "cost": 50,
+                "requiredBuilding": "Atheism",
+                "uniques": ["Atheism Belief","[+1 Culture] per every [1] [Faith]","Unbuildable","Cannot be purchased <if [Nihilism] is constructed>","Can only be built [in capital] <hidden from users>"]
+        }
+]
