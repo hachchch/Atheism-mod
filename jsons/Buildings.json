@@ -8,12 +8,12 @@
                 "name": "Nihilism",
                 "cost": 50,
                 "requiredBuilding": "Atheism",
-                "uniques": ["Atheism Belief","Unbuildable","[-25]% Unhappiness from [Population] [in all cities]","Nullifies [Faith] [in all cities]","Cannot be purchased <if [Materialism] is constructed>","Can only be built [in capital] <hidden from users>"]
+                "uniques": ["Atheism Belief","Unbuildable","[-25]% Unhappiness from [Population] [in all cities]","[+25]% [Science] [in all cities]","Nullifies [Faith] [in all cities]","Cannot be purchased <in cities with a [Materialism]>","Can only be built [in capital] <hidden from users>"]
         },
         {
                 "name": "Materialism",
                 "cost": 50,
                 "requiredBuilding": "Atheism",
-                "uniques": ["Atheism Belief","[+1 Culture] per every [1] [Faith]","Unbuildable","Cannot be purchased <if [Nihilism] is constructed>","Can only be built [in capital] <hidden from users>"]
+                "uniques": ["Atheism Belief","[+1 Culture] per every [1] [Faith]","Unbuildable","Cannot be purchased <in cities with a [Nihilism]>","Can only be built [in capital] <hidden from users>"]
         }
 ]
