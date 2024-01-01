@@ -1,4 +1,5 @@
 {
         "name": "Global uniques",
-        "uniques": ["May buy [Eraze 1 Population and eraze Unhappiness] buildings with [Culture] for [1] times their normal Production cost"]
+        "uniques": ["May buy [Atheism Religion] buildings with [Culture] for [1] times their normal Production cost",
+        "May buy [Atheism Belief] buildings with [Culture] for [3] times their normal Production cost"]
 }
